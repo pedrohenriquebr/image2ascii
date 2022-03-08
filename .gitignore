@@ -3,4 +3,4 @@
 /__pycache__
 *.pyc
 __py*__
-.vscode
+/.vscode
