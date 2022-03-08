@@ -1,0 +1,23 @@
+
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.result canvas, .result pre {
+    float:left;
+    margin-bottom: 20px;
+}
+
+.result-image {
+   font-size: .37rem;
+   margin: 0;
+}
+
+.loading {
+    position: absolute;
+    top: calc(50% - 50px);
+    left: calc(50% - 50px);
+    font-size: 1.5rem;
+    color: #fff;
+}
