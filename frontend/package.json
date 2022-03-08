@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "Pedro Braga",
   "license": "ISC",
-  "proxy": "http://localhost:5000/api",
+  "proxy": "http://localhost:5000",
   "dependencies": {
     "axios": "^0.26.0",
     "moment": "^2.29.1",

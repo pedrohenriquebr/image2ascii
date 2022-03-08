@@ -13,7 +13,7 @@
     width: var(--loader-size);
     height: var(--loader-size);
     position: absolute;
-    top: calc(50vw - var(--loader-size)/2 );
+    top: calc(50vh - var(--loader-size)/2 );
     left: calc(50vw - var(--loader-size)/2);
     border: var(--loader-width) solid var(--loader-bg-color);
     border-top: var(--loader-width) solid var(--loader-color);
